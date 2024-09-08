@@ -1,4 +1,4 @@
-Wir sind:Tobias Kulb, Lukas Reif, David Wolf und wollen euch unser It-Projekt von der RDF-Schule vorstellen.
+Wir sind: Tobias Kulb, Lukas Reif, David Wolf und wollen euch unser It-Projekt von der RDF-Schule vorstellen.
 
 Wir haben ein Weltraum Sidescroller entwickelt und wollen es hier kurz erklären.
 
@@ -20,6 +20,7 @@ Leertaste = Schießen
 
 
 ## Ingame Assets:
+
 
 #Sounds:
 
