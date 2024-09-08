@@ -2,7 +2,7 @@ Wir sind:Tobias Kulb, Lukas Reif, David Wolf und wollen euch unser It-Projekt vo
 
 Wir haben ein Weltraum Sidescroller entwickelt und wollen es hier kurz erklären.
 
-# Start;
+# Start:
 Code aktivieren und mit Enter das Spiel starten.
 (Mit P kann das spiel pausiert werden)
 
