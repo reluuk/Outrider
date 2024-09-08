@@ -72,6 +72,6 @@ Retro explode 1 | https://pixabay.com/de/sound-effects/retro-explode-1-236678/
 Boss Shoot:
 laser shot ingame | https://pixabay.com/de/sound-effects/laser-shot-ingame-230500/
 
-## Sprites:
+## Images:
 
-created with https://www.pixilart.com
+Sprites wurden erstellt mit : https://www.pixilart.com
