@@ -1,0 +1,5 @@
+Highscores:
+1. Elite: 30000
+2. Mid: 20000
+3. Little: 10000
+
