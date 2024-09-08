@@ -1,29 +1,31 @@
-Wir sind: Tobias Kulb, Lukas Reif, David Wolf und wollen euch unser It-Projekt von der RDF-Schule vorstellen.
+### Wir sind: Tobias Kulb, Lukas Reif, David Wolf und wollen euch unser It-Projekt von der RDF-Schule vorstellen.
 
-Wir haben ein Weltraum Sidescroller entwickelt und wollen es hier kurz erklären.
+#### Wir haben ein Weltraum Sidescroller entwickelt und wollen es hier kurz erklären.
 
-# Start:
+## Start:
+Ladet das ZIP herunter und entpackt es.  
+Entweder öffnet ihr den 'EXE' Ordner und dort kann im 'dist' Ordner einfach Outrider.exe geöffnet werden.  
+Oder ihr öffnet den 'PY' Ordner, dort liegt das Spiel als Outrider.py Datei.   
 Code aktivieren und mit Enter das Spiel starten.
 (Mit P kann das spiel pausiert werden)
 
-# Gameplay:
+## Gameplay:
 Wir spielen ein Raumschiff und müssen 3 Level überstehen.
 In jedem Level gibt es Kometen, denen man ausweichen oder abschießen muss und Gegner, die selbst schießen (die Gegner werden mit jedem Level stärker).
 Am Ende des Levels kommt ein Boss, der besiegt werden muss, um in das nächste Level zu gelangen.
 
-# Steuerung:
-W = hoch
-S = runter
-D = rechts
-A = links
-Leertaste = Schießen
-
-
+## Steuerung:
+W = hoch  
+A = links  
+S = runter  
+D = rechts   
+Leertaste = Schießen  
+P = Pause
 
 # Ingame Assets:
 
 
-#Sounds:
+## Sounds:
 
 Startmenu:
 Sleepless City by Keys of Moon | https://soundcloud.com/keysofmoon
@@ -70,6 +72,6 @@ Retro explode 1 | https://pixabay.com/de/sound-effects/retro-explode-1-236678/
 Boss Shoot:
 laser shot ingame | https://pixabay.com/de/sound-effects/laser-shot-ingame-230500/
 
-# Sprites:
+## Sprites:
 
 created with https://www.pixilart.com
